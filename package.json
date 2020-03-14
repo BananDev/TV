@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/octalmage/TV/issues"
   },
-  "homepage": "https://github.com/octalmage/TV#readme"
+  "homepage": "https://github.com/octalmage/TV#readme",
+    "scripts": {
+    "start": "node app.js"
+}
 }
