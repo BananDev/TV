@@ -1,4 +1,4 @@
-var io = require('socket.io').listen(8077);
+var io = require('socket.io').listen((process.env.PORT || 8077);
 var currentTime;
 var state=0;
 
