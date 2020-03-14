@@ -2,7 +2,7 @@
   "name": "tv",
   "version": "0.0.1",
   "description": "TV",
-  "main": "tv.js",
+  "main": "app.js",
   "dependencies": {
     "socket.io": "^0.9.14"
   },
