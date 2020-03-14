@@ -2,7 +2,7 @@
   "name": "tv",
   "version": "0.0.1",
   "description": "TV",
-  "main": "app.js",
+  "main": "tv.js",
   "dependencies": {
     "socket.io": "^0.9.14"
   },
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/octalmage/TV#readme",
     "scripts": {
-    "start": "node app.js"
+    "start": "node tv.js"
 }
 }
